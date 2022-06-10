@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class deneme {
+public class odevler {
     public static void main(String[] args) {
         int say, miktar = 0, toplam = 0;
         double ort;
@@ -16,6 +16,5 @@ public class deneme {
         }
         ort = toplam/miktar; //Ortalama Hesaplanirken
         System.out.print("Ortalamasi : " + ort);
-
     }
 }
